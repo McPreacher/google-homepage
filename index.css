@@ -60,6 +60,7 @@ img  {
 		line-height: 27px;
 		
 		
+		
 		}
 		
 #submit {
@@ -82,11 +83,11 @@ img  {
 .thebar {
 		line-height: 40px;
 		font-size: small;
-		left: ;
+		left: 0;
 		bottom: 0;
 		right: 0;
 		display: block;
-		position: absolute;
+		
 	
 		}
 		
